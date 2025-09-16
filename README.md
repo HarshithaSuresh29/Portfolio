@@ -1,85 +1,86 @@
-# 👩‍💻 Harshitha S S  
+Hello, I'm Harshitha SS 👋
+<p align="center">
+<a href="https://www.google.com/search?q=https://visitor-badge.laobi.icu/badge%3Fpage_id%3DHarshithaSuresh29.HarshithaSuresh29">
+<img src="https://www.google.com/search?q=https://visitor-badge.laobi.icu/badge%3Fpage_id%3DHarshithaSuresh29.HarshithaSuresh29" alt="GitHub Profile Views" />
+</a>
+</p>
 
-📍 Bangalore, Karnataka, India  
-📧 harshitha29ss@gmail.com | 📱 +91 9113822713  
-🔗 [Portfolio](#) | [LinkedIn](https://www.linkedin.com/in/harshitha-s-s-51aaa525b) | [GitHub](https://github.com/HarshithaSuresh29)  
+Contact
++91 9113822713 | <a href="mailto:harshitha29ss@gmail.com">harshitha29ss@gmail.com</a> | <a href="https://www.google.com/search?q=https://www.linkedin.com/in/harshitha-s-s">harshitha-s-s</a> | <a href="https://www.google.com/search?q=https://github.com/HarshithaSuresh29">HarshithaSuresh29</a>
+Bangalore, Karnataka, India
 
----
+OBJECTIVE
+Motivated Computer Science student with a strong background in Java, Data Structures, Web Development and App Development. Seeking to apply technical knowledge and problem-solving skills to real-world projects and deliver high-quality solutions as a dedicated member of a development team.
 
-## 💫 About Me  
-🎓 Motivated Computer Science student with strong expertise in **Java, Web Development, and Mobile App Development**. Passionate about building scalable applications and solving real-world problems with efficient solutions.  
+EDUCATION
+Presidency University | Aug 2022 – Present
 
-💡 Currently exploring **Full Stack Java Development** and working on impactful projects.  
-🚀 Looking forward to contributing to innovative development teams.  
+B.Tech in Computer Science, Bengaluru, India
 
----
+CGPA: 9.08
 
-## 🎓 Education  
-- **B.Tech in Computer Science** – Presidency University, Bengaluru *(2022 – Present)*  
-  - CGPA: **9.08**  
-- **Intermediate (PCMB)** – Jnana Bharathi PU College, Kunigal *(2021 – 2022)*  
-  - Percentage: **93.5%**  
-- **High School** – Jnana Bharathi English Higher Secondary, Kunigal *(2019 – 2020)*  
-  - Percentage: **85.44%**  
+Jnana Bharathi PU College | 2021 – 2022
 
----
+Intermediate (PCMB), Kunigal, India
 
-## 💼 Experience  
-**Mobile Application Development Intern – United Needleworks** *(Jul 2025 – Present)*  
-- Developed **payment pages & outfit sections** with a **virtual try-on feature**, increasing engagement by **15%**.  
-- Built an **in-app chat system** with like & comment features, boosting interaction by **5%**.  
+Percentage: 93.5%
 
----
+Jnana Bharathi English Higher Secondary | 2019 – 2020
 
-## 🚀 Projects  
-- **Event Management System** *(HTML, CSS, JavaScript, Bootstrap, AngularJS)*  
-  - Reduced manual effort by **30%** with a responsive event registration platform.  
-  - Increased registrations by **25%** with dynamic UI/UX improvements.  
+High School, Kunigal, India
 
-- **Women Safety Application** *(Android Studio, Java, MySQL)*  
-  - Engineered SOS feature for real-time location sharing & emergency alerts.  
-  - Ensured **90%+ data retrieval success** with secure MySQL backend.  
+Percentage: 85.44%
 
-- **Camouflage Multi-Functional Army Robot** *(Arduino)*  
-  - Designed a camouflage-enabled robot with remote navigation.  
-  - Improved simulated mission success rates by **40%**.  
+EXPERIENCE
+Mobile Application Development Intern — Untitled Needleworks | Jul 2025 – Present
 
-- **Autonomous Boat with Waste Collection** *(Raspberry Pi)*  
-  - Automated waste collection with GPS navigation.  
-  - Achieved **20% faster operations** than manual methods.  
+Developed new payment pages and outfit sections, integrating a virtual try-on feature that increased user engagement by an estimated 15%.
 
----
+Engineered an in-app chat with like and comment functionality, boosting user interaction by 5%.
 
-## 🛠️ Tech Stack  
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)  
-![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)  
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white)  
-![HTML](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)  
-![CSS](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)  
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=flutter&logoColor=white)  
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=flat-square&logo=android-studio&logoColor=white)  
-![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white)  
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)  
+PROJECTS
+Event Management System (HTML, CSS, JavaScript, Bootstrap, AngularJS) | 2025
 
----
+Developed a responsive web platform for event creation, registration, and attendee tracking, reducing manual effort by an estimated 30%.
 
-## 🏆 Certificates  
-- 🥇 Problem Solving for DSA in Java — *CodeChef*  
-- 🥇 Oracle Java Foundation — *Oracle*  
-- 🥇 Smart India Hackathon — *SIH*  
-- 🥇 Introduction to Machine Learning — *Infosys Springboard*  
+Designed an interactive UI using Bootstrap and integrated AngularJS for dynamic data handling, which contributed to a 25% increase in event registrations.
 
----
+Women Safety Application (Android Studio, Java, MySQL) | 2024
 
-## 📊 GitHub Stats  
-![](https://github-readme-stats.vercel.app/api?username=HarshithaSuresh29&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true)  
-![](https://github-readme-streak-stats.herokuapp.com/?user=HarshithaSuresh29&theme=vue-dark&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=HarshithaSuresh29&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)  
+Engineered a mobile safety app with an SOS feature that provides real-time location sharing and emergency alerts.
 
----
+Integrated a secure MySQL backend to ensure 90% data retrieval success and enhance application reliability.
 
-[![](https://visitcount.itsvg.in/api?id=HarshithaSuresh29&icon=0&color=0)](https://visitcount.itsvg.in)  
+Camouflage Multi-Functional Army Robot (Arduino) | 2024
 
-<!-- Profile generated with ❤ -->
+Built an Arduino-powered robot with camouflage capabilities for stealth operations and remote navigation.
+
+Enabled multi-functional task execution, potentially increasing success rates by 40% in simulated field exercises.
+
+Autonomous Boat with Waste Collection System (Raspberry Pi) | 2023
+
+Designed an autonomous boat using a Raspberry Pi that collects waste and uses GPS for navigation.
+
+Enhanced operational efficiency, completing its cleaning route in 20% less time compared to traditional manual methods.
+
+SKILLS
+Programming Languages: Java, Python
+
+Web Development: HTML, CSS, JavaScript
+
+Databases: MySQL
+
+Frameworks & Tools: Android Studio, Android SDK, Flutter, Figma, VS Code, GitHub
+
+Version Control: Git
+
+Soft Skills: Teamwork, Effective communication, Time management, Critical thinking, Leadership Qualities
+
+CERTIFICATES
+Problem Solving for DSA in Java — CodeChef
+
+Oracle Java Foundation — Oracle Badge
+
+Smart India Hackathon — SIH
+
+Introduction to Machine Learning — Infosys Springboard
