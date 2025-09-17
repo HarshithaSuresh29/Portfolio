@@ -1,3 +1,3 @@
 # DEPLOYMENT SERVER 
-https://HarshithaSuresh29.github.io
+https://harshithasuresh29.github.io/Portfolio/
 
